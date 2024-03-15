@@ -17,7 +17,7 @@ A Data Analysis Project that Analysed  the sales performance of a Telecommunicat
 [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))  <br> <br>
 
 [Data Analysis](#data-analysis) <br> <br>
-[]()
+[Results and Findings](#results-and-findings)
 []()
 ## Project Overview: 
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State. 
