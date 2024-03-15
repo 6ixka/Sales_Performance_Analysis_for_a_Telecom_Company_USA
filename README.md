@@ -17,8 +17,8 @@ A Data Analysis Project that Analysed  the sales performance of a Telecommunicat
 [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))  <br> <br>
 
 [Data Analysis](#data-analysis) <br> <br>
-[Results and Findings](#results-and-findings)
-[]()
+[Results and Findings](#results-and-findings)   <br> <br>
+[Recommendations](#Recommendations)
 ## Project Overview: 
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State. 
 __About the Company:__ The Telecommunication Company operates a B2B business model and  sells a wide variety of cell phones and devices, including __smartphones, tablets, smartwatches__.  They offer devices from all of the major manufacturers, such as Apple, Samsung, Google, and Motorola.
