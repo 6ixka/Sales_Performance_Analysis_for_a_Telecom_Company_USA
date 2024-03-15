@@ -121,6 +121,31 @@ FROM orders
 GROUP BY year  
 ORDER BY year 
 ```
+## Results and Findings: 
+
+The Analysis Results is summarised as follows: 
+
+- The Company’s Top 3  Customers by ranking are 
+  - 1st: EOG Resources : Bought a total of 56,410 items and has generated a Total revenue of  $382,870
+  - 2nd: Mosaic :  Bought a total of 49,246 items and has generated a Total revenue of $345,620
+  - 3rd: IBM :    Bought a total of 47,506 items and has generated a Total revenue of $326,820
+ - The top 10 customers are buying smartphones and smartwatches in almost the same proportion with a slightly higher preference for smartphones .
+ - The Overall Top selling product is smartphones , accounting for over 52% percent of total  sales and Revenue. 
+ - The top performing channel of sales is Direct channel,  accounting for over 61 % percent of total  Sales and Revenue. 
+ - The best performing region is the Northeast Region , accounting for over 33 % percent of total  Sales and Revenue. 
+ - The company’s sales have been steadily increasing over the past years  with a noticeable peak in the holiday season in  2016, followed by a sudden decline in sales from 2017.
+
+## Recommendations: 
+__Based on the findings/results of this  data analysis project, I strongly  recommend the following actions :__
+- The company should focus on expanding and promoting the smartphone product category. 
+- The company should invest in marketing and promotions during peak sales season to maximise revenue. 
+- The company should implement a customer segmentation strategy to target smartphones and smartwatches customers effectively. 
+- The company should allocate more budget and resources to their Direct sales channel to maximise revenue. 
+- The company should invest more resources  in their Northeast Region of operation  to maximise revenue. 
+
+
+ 
+ 
 
 
 
