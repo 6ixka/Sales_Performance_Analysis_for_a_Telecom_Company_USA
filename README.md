@@ -10,6 +10,24 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify __Top performing customers, products, channels of sales , region , trends, and the overall performance of the company__ , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
+1. sales performance by customers <br> <br>
+
+<img width="956" alt="Customer behaviour_SS" src="https://github.com/6ixka/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163520580/99187309-d74c-4f66-b8a6-ebdf58a557c9">
+
+2. sales performance by channels <br> <br>
+
+<img width="960" alt="Sales by channels_ss" src="https://github.com/6ixka/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163520580/b25787b9-33fe-45a4-a1f8-d67200639c44">
+
+3. sales performance by region  <br> <br>
+
+<img width="960" alt="Sales by region_ss" src="https://github.com/6ixka/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163520580/95682fb9-3909-46c1-b57e-6b3599e8f39f">
+
+4. sales trends over the years <br> <br>
+
+<img width="958" alt="Sales Trend over the years_ss" src="https://github.com/6ixka/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163520580/5802ae1c-7870-4cee-9688-63e9ec998064">
+
+
+
 
 ## Data Sources
 __Sales Transaction Data:__ The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
